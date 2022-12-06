@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Exploration"
-background: '/img/posts/06.jpg'
+background: '/img/posts_for_all/healthcare.jpeg'
 ---
 
 # Healthcare access indicators
@@ -40,3 +40,4 @@ X8: people under 5 years and above 65 years
 # Correlation Matrix Between Variables
 
 ![correlation-matrix](/img/2022-10-26-post/correlation-matrix.png)
+

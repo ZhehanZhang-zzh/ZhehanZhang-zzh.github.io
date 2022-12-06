@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Collection"
-background: '/img/posts/06.jpg'
+background: '/img/posts_for_all/healthcare.jpeg'
 ---
 
 # Healthcare access
